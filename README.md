@@ -40,4 +40,12 @@ Where I cannot use ansible for deployed/configured. I used ARM templates. Ex: St
 
 If I want to deploy  a function app- Storage account every time uploading data , changes in storage account taking snapshot and saving it diff storage account
 
-# 
+# Azure Paas Services
+  Azure app aervice ( Elastic Bean Stalk)
+  
+
+ SaaS examples: BigCommerce, Google Apps, Salesforce, Dropbox, MailChimp, ZenDesk, DocuSign, Slack, Hubspot.
+
+ PaaS examples: AWS Elastic Beanstalk, Heroku, Windows Azure (mostly used as PaaS), Force.com, OpenShift, Apache Stratos, Magento Commerce Cloud.
+
+ IaaS examples: AWS EC2, Rackspace, Google Compute Engine (GCE), Digital Ocean, Magento 1 Enterprise Edition*.
