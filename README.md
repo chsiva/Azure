@@ -1,4 +1,4 @@
-# Azure service compariosn with AWS
+# Azure service comparision with AWS
 
 https://docs.microsoft.com/en-us/azure/architecture/aws-professional/services
 
