@@ -20,6 +20,7 @@ https://docs.microsoft.com/en-us/azure/architecture/aws-professional/services
 # what you did on Azure?
 My last assignment was cloud migration moving from premises to azure, My first step for migration was to create pre and post migration tasks. Choosing the best services on the cloud that suits our business requirement and considering cost estimation as our goal as to pay whatever we use (Cost estimation, License issue).
 
+I do work on both IAAS & Pass Services
 
 Extensilvely working with Azure  Network & Security  practices utilizing various services such as Virtual Networks (VNets), subnets, Azure network settings, DHCP address blocks, DNS settings, security policies and routing. 
 
