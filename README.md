@@ -4,7 +4,7 @@ https://docs.microsoft.com/en-us/azure/architecture/aws-professional/services
 
 0. Aws Accounts ( Azure Subscriptions)
 
-1. Azure Active Directory (AWS IAM)
+1. Azure Active Directory - It is a closed source (AWS IAM - open Source) 
 
 2. Computing & Storage : 
     vms, , Functions (Lamda), Azure Storage (EBS), Virtual Machine Scale sets ( Load balancing), Azure VM scaling (auto scaling), Bob Storage (S3), File Storage    (EFS).
