@@ -11,6 +11,21 @@ Networking: Vnets (VPC), Subnets, DNS ( Route53), Express Route, Azure Traffic m
 
 Databases: Azure RDS ( Azure SQl, MySQL, PostgreSQL).
 
+# what you did on Azure?
+My last assignment was cloud migration moving from premises to azure, My first step for migration was to create pre and post migration tasks. Choosing the best services on the cloud that suits our business requirement and considering cost estimation as our goal as to pay whatever we use (Cost estimation, License issue).
+
+
+Extensilvely working with Azure  Network & Security  practices utilizing various services such as Virtual Networks (VNets), subnets, Azure network settings, DHCP address blocks, DNS settings, security policies and routing. 
+
+
+configured Express Routes, Network Security Groups, Peering (Global Vnet and Private Peering), E2E flow for the Hybrid Connectivity, Flow Logs, Network Performance Monitoring (NPM), Service Endpoint, Fast Path, Private link, Network Watcher, Vnet Creation/Deletion, Vnet Injection, UDRs, Application Gateway.
+
+I also worked   on both the Azure Infrastructure & Operations side. where my day-day work involves using Terraform to build the infrastructure as a code  such as provisioning/deprovisioning the services on Azure (computing side, Storage, Networking, Database, Monitoring, Security). Creating functions(SLS - serverless Framework ) using Python to implement serverless architectures. Azure Policies - Azure Policy is a service in Azure which allows you create polices which enforce and “control the properties of a resource”. 
+Deny the resource change
+Log the change to the resource
+Alter the resource before the change
+Alter the resource after the change
+Deploy related compliant resources
 
 
 
