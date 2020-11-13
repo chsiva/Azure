@@ -6,6 +6,8 @@ https://docs.microsoft.com/en-us/azure/architecture/aws-professional/services
 
 1. Azure Active Directory - It is a closed source (AWS IAM - open Source) 
 
+   It is a comprehensive identity and access management solution that gives you a robust set of capabilities to manage users and groups. You can get the reliability    and scalability you need with identity services that work with your on-premises, cloud, or hybrid environment.
+
 2. Computing & Storage : 
     vms, , Functions (Lamda), Azure Storage (EBS), Virtual Machine Scale sets ( Load balancing), Azure VM scaling (auto scaling), Bob Storage (S3), File Storage    (EFS).
 
