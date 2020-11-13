@@ -42,12 +42,12 @@ If I want to deploy  a function app- Storage account every time uploading data ,
 
 # IAAS VS PAAS VS SAAS - https://www.bigcommerce.com/blog/saas-vs-paas-vs-iaas/#examples-of-saas-paas-and-iaas
 
-Azure Paas Services
-  Azure app aervice ( Elastic Bean Stalk)
+  0. Azure Paas Services
+  1. Azure app aervice ( Elastic Bean Stalk)
   
 
- SaaS examples: BigCommerce, Google Apps, Salesforce, Dropbox, MailChimp, ZenDesk, DocuSign, Slack, Hubspot.
+ 1. SaaS examples: BigCommerce, Google Apps, Salesforce, Dropbox, MailChimp, ZenDesk, DocuSign, Slack, Hubspot.
 
- PaaS examples: AWS Elastic Beanstalk, Heroku, Windows Azure (mostly used as PaaS), Force.com, OpenShift, Apache Stratos, Magento Commerce Cloud.
+ 2. PaaS examples: AWS Elastic Beanstalk, Heroku, Windows Azure (mostly used as PaaS), Force.com, OpenShift, Apache Stratos, Magento Commerce Cloud.
 
- IaaS examples: AWS EC2, Rackspace, Google Compute Engine (GCE), Digital Ocean, Magento 1 Enterprise Edition*.
+ 3. IaaS examples: AWS EC2, Rackspace, Google Compute Engine (GCE), Digital Ocean, Magento 1 Enterprise Edition*.
