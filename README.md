@@ -40,7 +40,9 @@ Where I cannot use ansible for deployed/configured. I used ARM templates. Ex: St
 
 If I want to deploy  a function app- Storage account every time uploading data , changes in storage account taking snapshot and saving it diff storage account
 
-# Azure Paas Services
+# IAAS VS PAAS VS SAAS - https://www.bigcommerce.com/blog/saas-vs-paas-vs-iaas/#examples-of-saas-paas-and-iaas
+
+Azure Paas Services
   Azure app aervice ( Elastic Bean Stalk)
   
 
