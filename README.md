@@ -2,14 +2,18 @@
 
 https://docs.microsoft.com/en-us/azure/architecture/aws-professional/services
 
-Computing & Storage : 
-vms, , Functions (Lamda), Azure Storage (EBS), Virtual Machine Scale sets ( Load balancing), Azure VM scaling (auto scaling), Bob Storage (S3), File Storage (EFS).
+0. Aws Accounts ( Azure Subscriptions)
 
-Secuity: Azure NSG's(security groups) - firewall beytween vms and vnets
+1. Azure Active Directory (AWS IAM)
 
-Networking: Vnets (VPC), Subnets, DNS ( Route53), Express Route, Azure Traffic manager, , Load balancer (Network Load Balancer - Layer 4), Application Gateway (Layer 7), Firewall.
+2. Computing & Storage : 
+    vms, , Functions (Lamda), Azure Storage (EBS), Virtual Machine Scale sets ( Load balancing), Azure VM scaling (auto scaling), Bob Storage (S3), File Storage    (EFS).
 
-Databases: Azure RDS ( Azure SQl, MySQL, PostgreSQL).
+3. Secuity: Azure NSG's(security groups) - firewall beytween vms and vnets
+
+4. Networking: Vnets (VPC), Subnets, DNS ( Route53), Express Route, Azure Traffic manager, , Load balancer (Network Load Balancer - Layer 4), Application Gateway (Layer 7), Firewall.
+
+5. Databases: Azure RDS ( Azure SQl, MySQL, PostgreSQL).
 
 # what you did on Azure?
 My last assignment was cloud migration moving from premises to azure, My first step for migration was to create pre and post migration tasks. Choosing the best services on the cloud that suits our business requirement and considering cost estimation as our goal as to pay whatever we use (Cost estimation, License issue).
